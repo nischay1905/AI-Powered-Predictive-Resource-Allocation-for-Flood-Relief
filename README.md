@@ -9,6 +9,9 @@ Flood-prone districts in Odisha and Bihar receive relief supplies *after* disast
 
 ---
 
+##Streamlit App Link:- https://ai-powered-predictive-resource-allocation-for-flood-relief-gjb.streamlit.app/
+
+
 ##  Resources Predicted
 | Resource | Unit |
 |---|---|
@@ -80,9 +83,9 @@ python predict.py
 ## 📋 NGO Action Playbook
 | Zone | Flood Risk | Action |
 |---|---|---|
-| 🟢 Green | < 30% | Normal inventory |
-| 🟡 Yellow | 30–60% | Pre-position 50% reserve stock |
-| 🔴 Red | > 60% | Deploy emergency inventory now |
+|  Green | < 30% | Normal inventory |
+|  Yellow | 30–60% | Pre-position 50% reserve stock |
+|  Red | > 60% | Deploy emergency inventory now |
 
 ---
 
